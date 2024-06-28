@@ -1,24 +1,15 @@
-# README
+## QR Code Upload and Linking App with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Introduction
+This Ruby on Rails application enables users to upload posts along with dynamically generated QR codes that point to the respective post links. It facilitates testing and demonstration of QR code capabilities within a web environment.
 
-Things you may want to cover:
+## Technologies Used
+- Ruby on Rails: Framework for building web applications
+- SQLite: Database management system
+- RQRCode Gem: Used for generating QR codes dynamically
+- ActiveStorage: Used for file uploads
 
-* Ruby version
+## Demo
+![image](https://github.com/BinhNguyenDang/QRGenerator/assets/146049423/695c96ad-4e56-4f63-9044-cbc32e5208ea)
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
